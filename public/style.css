@@ -1,0 +1,19 @@
+.container h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.button{
+    margin: 0 40%;
+    width: 20%;
+    text-transform: uppercase;
+}
+
+li{
+    list-style-type: none; 
+    background-color: rgba(129,186,247,0.2);
+    padding: 5%;
+    border-radius: 50px;
+    margin: 0 0 50px 0;
+}
+
